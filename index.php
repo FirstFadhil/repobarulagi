@@ -10,6 +10,7 @@
     <h1>Hello World!</h1>
     <p>lorem</p>
     <p>loremmmmmmm</p>
+    <p> tes dari ruiz </p>
     <p>lorem lagii
     </p>
     <p>paragraph baru lagi</p>
