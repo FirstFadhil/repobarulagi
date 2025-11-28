@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="">
-    <title>Coba Git remote</title>
+    <title>Ganti Judul</title>
 </head>
 <body>
     <h1>Hello World!</h1>
